@@ -1,0 +1,2 @@
+# .github
+Skafis docs
