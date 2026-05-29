@@ -4,8 +4,10 @@ SKAFIS is an EdTech software developed by the tech team of the Lithuanian tutori
 
 ## Open source projects
 
-### [vbesort.lt](https://www.vbesort.lt)
+### [matikzy.org](https://www.matikzy.org) - active development!
 
-### [sci-dict.org](https://www.sci-dict.org)
+### [vbesort.lt](https://www.vbesort.lt) - suspended due to legal problems
 
-### [testai.skafis.lt](https://testai.skafis.lt)
+### [sci-dict.org](https://www.sci-dict.org) - not actively maintained
+
+### [testai.skafis.lt](https://testai.skafis.lt) - not actively maintained
